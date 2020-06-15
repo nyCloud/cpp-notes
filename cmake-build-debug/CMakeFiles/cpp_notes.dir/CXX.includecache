@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tusimple/CLionProjects/cpp_notes/src/main.cpp
+iostream
+-
+vector
+-
+string
+-
+map
+-
+../tools/print.h
+/home/tusimple/CLionProjects/cpp_notes/tools/print.h
+
+/home/tusimple/CLionProjects/cpp_notes/tools/print.h
+iostream
+-
+vector
+-
+string
+-
+map
+-
+

@@ -1,0 +1,6 @@
+/home/tusimple/Downloads/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tusimple/CLionProjects/cpp_notes
+## TOOLS_SOURCES = /home/tusimple/CLionProjects/cpp_notes/tools/print.cpp
+src/main.cppsrc/notes1_stl_types.cppsrc/notes2.cppsrc/notes3_iterator_search.cppsrc/notes4_lists.cppsrc/notes5_func_ptrs.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tusimple/CLionProjects/cpp_notes

@@ -1,0 +1,6 @@
+/home/tusimple/CLionProjects/cpp_notes/CMakeFiles/edit_cache.dir
+/home/tusimple/CLionProjects/cpp_notes/CMakeFiles/rebuild_cache.dir
+/home/tusimple/CLionProjects/cpp_notes/CMakeFiles/cpp_notes.dir
+/home/tusimple/CLionProjects/cpp_notes/tools/CMakeFiles/edit_cache.dir
+/home/tusimple/CLionProjects/cpp_notes/tools/CMakeFiles/rebuild_cache.dir
+/home/tusimple/CLionProjects/cpp_notes/tools/CMakeFiles/Tools.dir
